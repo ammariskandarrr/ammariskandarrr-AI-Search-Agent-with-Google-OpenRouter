@@ -1,0 +1,5 @@
+langchain==0.0.350
+llama-index==0.10.12
+openrouter==1.0.0
+python-dotenv==1.0.0
+google-api-python-client==2.104.0
